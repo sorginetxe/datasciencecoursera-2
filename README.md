@@ -1,2 +1,2 @@
-# datasciencecoursera
-Repository holding projects and assignments of the Coursera/Johns Hopkins Data Science track. 
+# Johns Hopkins University Data Science Specialization on Coursera
+Repository holding projects and assignments of the Johns Hopkins University Data Science Specialization, hosted by Coursera. 
